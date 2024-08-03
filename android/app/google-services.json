@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436664743335",
+    "project_id": "mytriptokashmir-fcf5c",
+    "storage_bucket": "mytriptokashmir-fcf5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436664743335:android:992ff1ba2cdfe2c051f282",
+        "android_client_info": {
+          "package_name": "com.mytriptokashmir.mytriptokashmir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_EHPUGwgHUv6rKSJjBGQbLdBRBV8OCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

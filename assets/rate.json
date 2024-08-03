@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Gulmarg",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Pahalgam",
+      "rate_g": "30",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Sonamarg",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+
+    {
+      "id": "4",
+      "name": "Srinagar",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Doodhpathri",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Aharbal",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Mansbal Lake",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Yousmarg",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Photography ",
+      "rate_g": "20",
+      "img": "https://sahilbashir.github.io/MyTripToKashmirServer/images/gulmarg/gulmarg01.jpg"
+    }
+  ]
+}
